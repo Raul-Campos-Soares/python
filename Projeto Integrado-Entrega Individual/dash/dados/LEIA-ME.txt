@@ -1,2 +1,0 @@
-Coloque aqui o CSV/XLSX baixado do SIDRA (tabela 9514). O app usa o primeiro arquivo desta pasta.
-Se a pasta estiver vazia e nada for enviado pelo upload, o app tenta baixar direto da API do SIDRA.
