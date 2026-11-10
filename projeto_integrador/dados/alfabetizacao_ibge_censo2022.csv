@@ -1,0 +1,71 @@
+Nivel,Territorio,UF,Regiao,Ano,Sexo,Faixa_Etaria,Taxa_Alfabetizacao
+Brasil,Brasil,,,2010,Total,15+,90.4
+Brasil,Brasil,,,2022,Total,15+,93.0
+Brasil,Brasil,,,2022,Homens,15+,92.5
+Brasil,Brasil,,,2022,Mulheres,15+,93.5
+Brasil,Brasil,,,2022,Homens,65+,79.9
+Brasil,Brasil,,,2022,Mulheres,65+,79.6
+Região,Norte,,Norte,2010,Total,15+,88.8
+Região,Norte,,Norte,2022,Total,15+,91.8
+Região,Nordeste,,Nordeste,2010,Total,15+,80.9
+Região,Nordeste,,Nordeste,2022,Total,15+,85.8
+Região,Sudeste,,Sudeste,2010,Total,15+,94.6
+Região,Sudeste,,Sudeste,2022,Total,15+,96.1
+Região,Sul,,Sul,2010,Total,15+,94.9
+Região,Sul,,Sul,2022,Total,15+,96.6
+Região,Centro-Oeste,,Centro-Oeste,2010,Total,15+,92.8
+Região,Centro-Oeste,,Centro-Oeste,2022,Total,15+,94.9
+UF,Piauí,PI,Nordeste,2010,Total,15+,77.1
+UF,Piauí,PI,Nordeste,2022,Total,15+,82.8
+UF,Paraíba,PB,Nordeste,2010,Total,15+,78.1
+UF,Paraíba,PB,Nordeste,2022,Total,15+,84.0
+UF,Maranhão,MA,Nordeste,2010,Total,15+,79.1
+UF,Maranhão,MA,Nordeste,2022,Total,15+,85.0
+UF,Ceará,CE,Nordeste,2010,Total,15+,81.2
+UF,Ceará,CE,Nordeste,2022,Total,15+,85.9
+UF,Rio Grande do Norte,RN,Nordeste,2010,Total,15+,81.5
+UF,Rio Grande do Norte,RN,Nordeste,2022,Total,15+,86.1
+UF,Sergipe,SE,Nordeste,2010,Total,15+,81.6
+UF,Sergipe,SE,Nordeste,2022,Total,15+,86.2
+UF,Pernambuco,PE,Nordeste,2010,Total,15+,82.0
+UF,Pernambuco,PE,Nordeste,2022,Total,15+,86.6
+UF,Bahia,BA,Nordeste,2010,Total,15+,83.4
+UF,Bahia,BA,Nordeste,2022,Total,15+,87.4
+UF,Alagoas,AL,Nordeste,2010,Total,15+,75.7
+UF,Alagoas,AL,Nordeste,2022,Total,15+,82.3
+UF,Acre,AC,Norte,2010,Total,15+,83.5
+UF,Acre,AC,Norte,2022,Total,15+,87.9
+UF,Amazonas,AM,Norte,2010,Total,15+,90.2
+UF,Amazonas,AM,Norte,2022,Total,15+,93.1
+UF,Roraima,RR,Norte,2010,Total,15+,89.7
+UF,Roraima,RR,Norte,2022,Total,15+,93.1
+UF,Tocantins,TO,Norte,2010,Total,15+,86.9
+UF,Tocantins,TO,Norte,2022,Total,15+,90.9
+UF,Pará,PA,Norte,2010,Total,15+,88.3
+UF,Pará,PA,Norte,2022,Total,15+,91.2
+UF,Amapá,AP,Norte,2010,Total,15+,91.6
+UF,Amapá,AP,Norte,2022,Total,15+,93.5
+UF,Rondônia,RO,Norte,2010,Total,15+,91.3
+UF,Rondônia,RO,Norte,2022,Total,15+,93.6
+UF,Minas Gerais,MG,Sudeste,2010,Total,15+,91.7
+UF,Minas Gerais,MG,Sudeste,2022,Total,15+,94.2
+UF,Espírito Santo,ES,Sudeste,2010,Total,15+,91.9
+UF,Espírito Santo,ES,Sudeste,2022,Total,15+,94.4
+UF,Rio de Janeiro,RJ,Sudeste,2010,Total,15+,95.7
+UF,Rio de Janeiro,RJ,Sudeste,2022,Total,15+,96.7
+UF,São Paulo,SP,Sudeste,2010,Total,15+,95.7
+UF,São Paulo,SP,Sudeste,2022,Total,15+,96.9
+UF,Mato Grosso,MT,Centro-Oeste,2010,Total,15+,91.5
+UF,Mato Grosso,MT,Centro-Oeste,2022,Total,15+,94.2
+UF,Goiás,GO,Centro-Oeste,2010,Total,15+,92.1
+UF,Goiás,GO,Centro-Oeste,2022,Total,15+,94.5
+UF,Mato Grosso do Sul,MS,Centro-Oeste,2010,Total,15+,92.3
+UF,Mato Grosso do Sul,MS,Centro-Oeste,2022,Total,15+,94.6
+UF,Distrito Federal,DF,Centro-Oeste,2010,Total,15+,96.5
+UF,Distrito Federal,DF,Centro-Oeste,2022,Total,15+,97.2
+UF,Paraná,PR,Sul,2010,Total,15+,93.7
+UF,Paraná,PR,Sul,2022,Total,15+,95.7
+UF,Rio Grande do Sul,RS,Sul,2010,Total,15+,95.5
+UF,Rio Grande do Sul,RS,Sul,2022,Total,15+,96.9
+UF,Santa Catarina,SC,Sul,2010,Total,15+,95.9
+UF,Santa Catarina,SC,Sul,2022,Total,15+,97.3
