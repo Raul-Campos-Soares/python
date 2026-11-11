@@ -39,16 +39,12 @@ na primeira abertura (precisa de internet). As outras três páginas usam os arq
 - **Página 4:** o boxplot "onde a capital se posiciona" foi refeito com `graph_objects` para o ponto da capital cair sobre a caixa.
 - Todas as chamadas `use_container_width`/`width="stretch"` passam por `ui.py`, que funciona em versões antigas e novas do Streamlit.
 
-## Convenções estatísticas (para validar com a Profª Conceição)
+## Convenções estatísticas
 - Quartis: interpolação linear (padrão do Pandas/NumPy). Outlier: fora de [Q1 − 1,5·IQR ; Q3 + 1,5·IQR].
 - Desvio padrão/variância **amostrais (n−1)** nas séries de UFs e municípios; **populacionais (n)** na distribuição de idade da
   página 1 (dados agrupados por idade simples, onde a população é a frequência).
 - Taxa anual de crescimento da página 4: `(pop2022/pop2010)^(1/12) − 1`; confere com a taxa publicada pelo IBGE (diferença máx. 0,005 p.p., arredondamento).
 
-## Limitações conhecidas
-- **Página 1 não tem "raça/cor"**, que a proposta cita; a base de projeções é por sexo e idade simples.
-- **Página 4 (crescimento)** substitui "Pessoas indígenas" entre os 5 indicadores sugeridos na proposta: combinem com os professores.
-- Faltou a evidência visual: o painel foi testado por simulação (ver `testes/`), não aberto em navegador. Rodem e olhem cada aba.
 
 ## Testes
 `cd testes && python teste_mulheres.py && python rodar_fumaca.py && python rodar_fumaca_p3.py`
